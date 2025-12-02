@@ -1,0 +1,67 @@
+img{
+   display: block;
+  margin: auto;
+
+}
+h3 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div { 
+    width: 320px;
+  margin: 40px auto;
+  padding: 30px;
+
+  background: #fff;
+  border: 1px solid #d0d7de;   /* light gray border */
+  border-radius: 6px;          /* rounded corners like GitHub */
+
+  box-shadow: 0 1px 0 rgba(27,31,36,0.04); /* subtle shadow */
+ 
+   
+
+}
+input {
+    display: block;
+    margin: 0 auto 15px; /* centers the input horizontally */
+    width: 100%;          /* makes inputs same width as GitHub */
+    box-sizing: border-box;
+}
+
+form {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    color: rgb(6, 183, 252);
+}
+#pass {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+   
+a:link {
+    text-decoration: none;
+}
+button {
+   margin: 15px;
+    text-align: right;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family:monospace;
+    color: white;
+    background-color: rgb(135, 255, 135);
+    border-top:rgb(135, 255, 135); ;
+   border-bottom: rgb(135, 255, 135);
+   border-left: rgb(135, 255, 135);;
+   border-right: rgb(135, 255, 135);;
+    border-radius: 7px;
+}
+
+body {
+    background-color: #eceeef;
+}
